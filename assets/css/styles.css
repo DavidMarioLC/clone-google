@@ -125,3 +125,13 @@ html{
     border: 1px solid #dadce0;
     color: #202124;
 }
+
+.description_text{
+    margin-top: 3rem;
+    font-size: 1.3rem;
+}
+.description__text__link{
+    margin-right: .7rem;
+    text-decoration: none;
+    color: #1a0dab;
+}

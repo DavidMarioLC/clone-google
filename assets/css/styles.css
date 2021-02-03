@@ -52,3 +52,22 @@ html{
     font-size: 2rem;
     color:#727272;
 }
+
+
+/* main */
+
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+
+}
+.logo__image{
+    display: block;
+    width:100%;
+    max-width: 220px;
+
+}
